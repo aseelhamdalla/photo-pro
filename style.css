@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color: #373737;
+}
+.bg-light{
+    background-color: #ccc !important;
+} 
+
+
+img{
+    width:1100px;
+     box-shadow: 0px 10px 10px #ccc;
+     margin: 60px;
+ }
+
+ .col-md-4{
+     color: white;
+ }
+ .col-md-4> h3{
+     background-color: #303030;
+     padding:15px
+ }
+
+footer {
+ 
+color: white;
+background-color: gray;
+box-shadow: 0px 20px 10px black;
+height: 70px;
+}
+
